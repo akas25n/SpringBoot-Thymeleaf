@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Test_Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: arahim
+Implementation-Vendor-Id: com.test.project
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Test_Project
+Created-By: Maven Integration for Eclipse
+
